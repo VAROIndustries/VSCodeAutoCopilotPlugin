@@ -1,0 +1,11 @@
+{
+  "name": "copilot-auto-model",
+  "displayName": "Copilot Auto Model",
+  "description": "Shows which model Copilot Chat's Auto mode actually used, in the status bar.",
+  "publisher": "varoindustries",
+  "version": "0.0.1",
+  "license": "UNLICENSED",
+  "engines": { "vscode": "^1.90.0" },
+  "activationEvents": ["onStartupFinished"],
+  "main": "./extension.js"
+}
